@@ -61,3 +61,4 @@ print(result.deleted_count)
 
 print('test mongodb over...')
 print('today is holiday,haha!')
+print('just a joke...')
