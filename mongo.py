@@ -60,3 +60,4 @@ result = myset.delete_many({'age':{'$lt':60}})
 print(result.deleted_count)
 
 print('test mongodb over...')
+print('today is holiday,haha!')
